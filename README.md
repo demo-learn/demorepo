@@ -9,7 +9,5 @@ This is for linux demo of git
 
 change for pull
 
-in sync branches
-
-This is for local change
+in sync branfor local change
  webhook
